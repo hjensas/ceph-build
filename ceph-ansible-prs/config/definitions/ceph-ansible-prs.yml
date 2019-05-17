@@ -105,6 +105,7 @@
       - rgw_multisite
       - purge
       - lvm_auto_discovery
+      - nautilus
     jobs:
         - 'ceph-ansible-prs-pipeline'
 
